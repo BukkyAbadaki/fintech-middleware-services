@@ -3,6 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="3713c217-ce51-4639-89b9-7380981be7ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/src/main/java/com/fintech_middleware/Dashboard_Service/DashboardServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/src/main/java/com/fintech_middleware/Dashboard_Service/controller/DashboardController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/src/main/java/com/fintech_middleware/Dashboard_Service/domain/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/src/main/java/com/fintech_middleware/Dashboard_Service/dto/request/AccountDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/src/main/java/com/fintech_middleware/Dashboard_Service/dto/request/CustomerDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/src/main/java/com/fintech_middleware/Dashboard_Service/dto/response/DashboardResponseDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/src/main/java/com/fintech_middleware/Dashboard_Service/repository/AccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/src/main/java/com/fintech_middleware/Dashboard_Service/repository/CustomerClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/src/main/java/com/fintech_middleware/Dashboard_Service/service/DashboardService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dashboard-Service/src/test/java/com/fintech_middleware/Dashboard_Service/DashboardServiceApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-onboarding" beforeDir="false" afterPath="$PROJECT_DIR$/customer-onboarding" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-onboarding/src/main/java/com/fintech_middleware/customer_onboarding/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-onboarding/src/main/java/com/fintech_middleware/customer_onboarding/service/CustomerServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-onboarding/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-onboarding/src/main/resources/application.properties" afterDir="false" />
@@ -13,7 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/customer-onboarding" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/config-server" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748086522742</updated>
-      <workItem from="1748086524513" duration="3721000" />
+      <workItem from="1748086524513" duration="7312000" />
     </task>
     <servers />
   </component>
