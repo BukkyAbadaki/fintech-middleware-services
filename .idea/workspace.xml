@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3713c217-ce51-4639-89b9-7380981be7ca" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-onboarding" beforeDir="false" afterPath="$PROJECT_DIR$/customer-onboarding" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-onboarding/src/main/java/com/fintech_middleware/customer_onboarding/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-onboarding/src/main/java/com/fintech_middleware/customer_onboarding/service/CustomerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-onboarding/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-onboarding/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1748086522742</updated>
-      <workItem from="1748086524513" duration="1779000" />
+      <workItem from="1748086524513" duration="3721000" />
     </task>
     <servers />
   </component>
