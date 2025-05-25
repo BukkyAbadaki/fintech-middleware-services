@@ -4,10 +4,15 @@
     <list default="true" id="3713c217-ce51-4639-89b9-7380981be7ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-onboarding" beforeDir="false" afterPath="$PROJECT_DIR$/customer-onboarding" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-onboarding/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-onboarding/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-onboarding/src/main/java/com/fintech_middleware/customer_onboarding/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-onboarding/src/main/java/com/fintech_middleware/customer_onboarding/controller/CustomerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-onboarding/src/main/java/com/fintech_middleware/customer_onboarding/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-onboarding/src/main/java/com/fintech_middleware/customer_onboarding/service/CustomerService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-onboarding/src/main/java/com/fintech_middleware/customer_onboarding/service/CustomerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-onboarding/src/main/java/com/fintech_middleware/customer_onboarding/service/CustomerServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/customer-onboarding/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-onboarding/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-server" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discovery-server/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1748086522742</updated>
       <workItem from="1748086524513" duration="7312000" />
-      <workItem from="1748197211949" duration="692000" />
+      <workItem from="1748197211949" duration="1072000" />
     </task>
     <servers />
   </component>
